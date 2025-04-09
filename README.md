@@ -13,6 +13,6 @@ GitCon is my personal collection of code snippets, projects, and data visualizat
 I created this repository to document my coding journey, share my solutions with others, and contribute to the open-source community. Feel free to use, adapt, or build upon anything you find here!
 
 ## Contact
-If you have questions or suggestions, open an issue or reach out directly.
+If you have questions or suggestions, open an issue.
 
 Happy coding!
